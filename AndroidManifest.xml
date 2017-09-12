@@ -210,32 +210,6 @@
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
-<!-- todo : kalau di disable aman apa enggak? -->
-        <!--<activity android:name=".LocationSettingsActivity"-->
-                  <!--android:label="@string/activity_label_empty"-->
-                  <!--android:excludeFromRecents="true"-->
-                  <!--android:configChanges="mcc|mnc"-->
-                  <!--android:immersive="true"-->
-                  <!--android:exported="false"-->
-                  <!--android:windowSoftInputMode="stateAlwaysHidden">-->
-            <!--<intent-filter>-->
-                <!--<action android:name="com.cyanogenmod.setupwizard.LINEAGE_LOCATION_SETTINGS" />-->
-                <!--<category android:name="android.intent.category.DEFAULT" />-->
-            <!--</intent-filter>-->
-        <!--</activity>-->
-
-        <!--<activity android:name=".LineageSettingsActivity"-->
-                  <!--android:label="@string/activity_label_empty"-->
-                  <!--android:excludeFromRecents="true"-->
-                  <!--android:configChanges="mcc|mnc"-->
-                  <!--android:immersive="true"-->
-                  <!--android:windowSoftInputMode="stateAlwaysHidden">-->
-            <!--<intent-filter>-->
-                <!--<action android:name="com.cyanogenmod.setupwizard.LINEAGE_SETTINGS" />-->
-                <!--<category android:name="android.intent.category.DEFAULT" />-->
-            <!--</intent-filter>-->
-        <!--</activity>-->
-
         <activity android:name=".FingerprintActivity"
                   android:label="@string/activity_label_empty"
                   android:excludeFromRecents="true"

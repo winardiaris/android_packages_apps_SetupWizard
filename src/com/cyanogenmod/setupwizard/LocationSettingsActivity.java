@@ -27,7 +27,6 @@ import android.widget.CheckBox;
 import android.widget.TextView;
 
 import com.cyanogenmod.setupwizard.util.SetupWizardUtils;
-// todo activity ini yang perlu dihapus/skip
 public class LocationSettingsActivity extends BaseSetupWizardActivity {
 
     public static final String TAG =
