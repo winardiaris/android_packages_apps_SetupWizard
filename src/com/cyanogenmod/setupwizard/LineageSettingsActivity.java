@@ -48,7 +48,7 @@ import com.cyanogenmod.setupwizard.R;
 
 import cyanogenmod.hardware.CMHardwareManager;
 import cyanogenmod.providers.CMSettings;
-
+// todo : activity ini yang perlu dihapus/skip
 public class LineageSettingsActivity extends BaseSetupWizardActivity {
 
     public static final String TAG = LineageSettingsActivity.class.getSimpleName();
